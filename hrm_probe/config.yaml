@@ -1,0 +1,11 @@
+# Configuration for HRM probe
+N_PRIMES: 10
+K_MAX: 3
+T_MAX: 1.0        # seconds of signal
+SAMPLE_RATE: 1000 # Hz
+PEAK_HEIGHT: 0.1
+EPS: 0.05
+SCALE_RANGE: [0.8, 1.2]
+PHASE_RANGE: [0, 3.14]
+SCALE_STEPS: 5
+PHASE_STEPS: 5
